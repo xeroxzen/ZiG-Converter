@@ -37,7 +37,7 @@ A Go-based currency converter for Zimbabwe's new currency, ZiG, as well as the o
    ```bash
    ./converter.go
    ```
-   You'll be prompted to enter the amount, original currency, and target currency.
+   You'll be prompted to enter the amount, original currency, and target currency Mind your typing on the currencies.
 
 **Example**
 
