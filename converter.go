@@ -57,7 +57,7 @@ func performConversion(amount float64, fromCurrency, toCurrency string) (float64
     case "ZWL":
         switch toCurrency {
         case "USD":
-            return amount / USD_TO_ZWL, nil
+            return amount / ZWL_TO_ZIG, nil
         case "ZiG":
             return amount / ZWL_TO_ZIG, nil
         default:
